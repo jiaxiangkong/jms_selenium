@@ -1,0 +1,8 @@
+XlsxWriter==0.8.6
+backports.shutil-get-terminal-size==1.0.0
+decorator==4.0.9
+pickleshare==0.7.2
+selenium==2.53.2
+simplegeneric==0.8.1
+traitlets==4.2.1
+xlrd==0.9.4
